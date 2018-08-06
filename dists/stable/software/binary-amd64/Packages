@@ -1,0 +1,37 @@
+Package: qregovar
+Priority: optional
+Section: unknown
+Maintainer: Regovar Team <contact@regovar.org>
+Architecture: amd64
+Source: Regovar
+Version: 0.13.1-2
+Depends: qt-regovar-dependencies
+Filename: pool/software/R/Regovar/qregovar.deb
+Size: 1133960
+MD5sum: 318258e75446f242bf2097033fd7bc4d
+SHA1: aa5191e085d54db51ba9c2b57288baf14311d638
+SHA256: b0f84340261b6093c65cd3c087a489742d18efe37abb4d40a8e3459723b2f5e0
+SHA512: fcd781ed612788136880ea9a4f5bad784c0d088a0aadd8b43f2d77c32089e1c13b26b0c465ef7ebeb7653be031b87c0285a0c0abc30eb35b069252bac444c72f
+Description: Official Qt client for Regovar
+Standards-Version: 4.0.0
+Build-Depends: 
+Homepage: https://regovar.org/
+
+Package: qt-regovar-dependencies
+Priority: optional
+Section: unknown
+Maintainer: Regovar Team <contact@regovar.org>
+Architecture: amd64
+Source: Qt
+Version: 5.11.0-1
+Filename: pool/software/Q/Qt/qt-regovar-dependencies.deb
+Size: 77651180
+MD5sum: 51a5f2ee22ef6465234e6327b7a7bfe8
+SHA1: f7fecfdbf7887d22a57aabe5a27ea21390d1a2ad
+SHA256: ac2280055397fa2a7da986aee24f7bb345b0b5e33035c4952dcc89069ee3949c
+SHA512: 5c9e2c5b6895108a012870ebbd4e8e18bfeaddacf618f928584507f9f2663febacb490a6bd64662cbe2c9acae85ff2c055cebc5c3e5614248457fc43fdd19914
+Description: Qt dependencies for QRegovar
+Standards-Version: 4.0.0
+Build-Depends: 
+Homepage: https://www.qt.io/
+
