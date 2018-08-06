@@ -1,1 +1,1 @@
-keep_files: [*.deb]
+keep_files: [dists,pool]
